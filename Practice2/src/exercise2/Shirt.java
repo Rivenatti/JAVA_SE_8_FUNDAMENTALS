@@ -1,6 +1,6 @@
 package exercise2;
 /**
- * @author Marcin Sulewski
+ * @author Rivenatti
  */
 public class Shirt extends Item{
     private char size;

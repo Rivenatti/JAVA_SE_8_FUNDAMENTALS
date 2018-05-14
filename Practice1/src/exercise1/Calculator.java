@@ -3,7 +3,7 @@ package exercise1;
 import java.util.StringTokenizer;
 
 /*
- * @author Marcin Sulewski
+ * @author Rivenatti
 */
 
 public class Calculator {

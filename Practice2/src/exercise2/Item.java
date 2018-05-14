@@ -1,7 +1,7 @@
 package exercise2;
 
 /**
- * @author Marcin Sulewski
+ * @author Rivenatti
  */
 
 public class Item {

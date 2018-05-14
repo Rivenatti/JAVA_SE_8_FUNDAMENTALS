@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 /*
- * @author Marcin Sulewski
+ * @author Rivenatti
  */
 
 public class ShoppingCart {
