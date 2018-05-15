@@ -11,7 +11,6 @@ public class Trousers extends Item implements Cloth{
         this.color = col;
     }
 
-    
     // GET COLOR OVERRIDE
     @Override
     public String getColor() {
